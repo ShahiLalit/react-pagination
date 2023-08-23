@@ -1,5 +1,5 @@
-import { renderHook } from "@testing-library/react-hooks";
 import "@testing-library/jest-dom";
+import { renderHook } from "@testing-library/react-hooks";
 import { usePagination } from "../usePagination";
 
 describe("usePagination", () => {
