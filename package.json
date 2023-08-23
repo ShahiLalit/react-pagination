@@ -20,7 +20,7 @@
     "lint": "tsc",
     "test": "jest",
     "ci": "pnpm run lint && pnpm run test && pnpm run build",
-    "release": "pnpm run lint && pnpm run test && pnpm run build && changeset publish"
+    "release": "pnpm run lint && pnpm run build && changeset publish"
   },
   "devDependencies": {
     "@babel/core": "^7.22.10",
