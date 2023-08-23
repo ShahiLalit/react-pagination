@@ -17,5 +17,5 @@ jobs:
           node-version: 16.x
           cache: "pnpm"
       - run: pnpm install --no-frozen-lockfile
-      - run: pnpm test
+      - run: pnpm test --maxWorkers=2 --maxConcurrent=2
       - run: pnpm run lint && pnpm run build
