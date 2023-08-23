@@ -3,6 +3,7 @@
   "description": "a react-pagination component",
   "license": "MIT",
   "author": "Lalit Shahi",
+  "private": false,
   "version": "0.0.2",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
