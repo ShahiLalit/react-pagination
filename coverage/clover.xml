@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1692806377507" clover="3.2.0">
+  <project timestamp="1692806377508" name="All files">
+    <metrics statements="63" coveredstatements="51" conditionals="29" coveredconditionals="22" methods="19" coveredmethods="10" elements="111" coveredelements="83" complexity="0" loc="63" ncloc="63" packages="7" files="10" classes="10"/>
+    <package name="components">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="/Users/lalitshahi/Documents/techWolf/react-pagination/src/components/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.Button">
+      <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="Button.tsx" path="/Users/lalitshahi/Documents/techWolf/react-pagination/src/components/Button/Button.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="7" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/lalitshahi/Documents/techWolf/react-pagination/src/components/Button/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.Pagination">
+      <metrics statements="19" coveredstatements="10" conditionals="9" coveredconditionals="4" methods="9" coveredmethods="1"/>
+      <file name="Pagination.tsx" path="/Users/lalitshahi/Documents/techWolf/react-pagination/src/components/Pagination/Pagination.tsx">
+        <metrics statements="19" coveredstatements="10" conditionals="9" coveredconditionals="4" methods="9" coveredmethods="1"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="132" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="133" count="0" type="stmt"/>
+        <line num="146" count="0" type="stmt"/>
+        <line num="151" count="0" type="stmt"/>
+        <line num="194" count="1" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/lalitshahi/Documents/techWolf/react-pagination/src/components/Pagination/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.RowsCount">
+      <metrics statements="9" coveredstatements="7" conditionals="1" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <file name="RowsCount.tsx" path="/Users/lalitshahi/Documents/techWolf/react-pagination/src/components/RowsCount/RowsCount.tsx">
+        <metrics statements="9" coveredstatements="7" conditionals="1" coveredconditionals="0" methods="4" coveredmethods="3"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="45" count="19" type="stmt"/>
+        <line num="60" count="2" type="stmt"/>
+        <line num="64" count="19" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/lalitshahi/Documents/techWolf/react-pagination/src/components/RowsCount/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="constants">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="/Users/lalitshahi/Documents/techWolf/react-pagination/src/constants/index.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks">
+      <metrics statements="29" coveredstatements="28" conditionals="15" coveredconditionals="14" methods="4" coveredmethods="4"/>
+      <file name="usePagination.ts" path="/Users/lalitshahi/Documents/techWolf/react-pagination/src/hooks/usePagination.ts">
+        <metrics statements="29" coveredstatements="28" conditionals="15" coveredconditionals="14" methods="4" coveredmethods="4"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="10" count="24" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="26" count="7" type="stmt"/>
+        <line num="27" count="7" type="stmt"/>
+        <line num="30" count="7" type="stmt"/>
+        <line num="36" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="40" count="5" type="stmt"/>
+        <line num="41" count="5" type="stmt"/>
+        <line num="51" count="5" type="stmt"/>
+        <line num="52" count="5" type="stmt"/>
+        <line num="54" count="5" type="stmt"/>
+        <line num="55" count="5" type="stmt"/>
+        <line num="57" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="58" count="2" type="stmt"/>
+        <line num="59" count="2" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="64" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="65" count="2" type="stmt"/>
+        <line num="66" count="2" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
+        <line num="73" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="83" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.ts" path="/Users/lalitshahi/Documents/techWolf/react-pagination/src/utils/index.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="30" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
